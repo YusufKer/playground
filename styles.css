@@ -1,0 +1,23 @@
+ol li {
+    font-size: 14px;
+}
+
+table{
+    width:100%;
+    margin-bottom:16px
+}
+    
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    border-color:#212529
+}
+    
+h2, h3{
+    color:#212529
+}
+    
+td {
+    width: 25%;
+}

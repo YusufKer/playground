@@ -1,0 +1,71 @@
+[ ] US Powerball
+    [ ] Information correct
+    [ ] styling correct
+    [ ] pdf snapshot fine
+    [x] alt tags
+
+[x] US Mega Millions
+    [x] Information correct
+    [x] styling fine
+    [x] pdf snapshot fine
+    [x] alt tags
+
+[x] EuroMillions
+    [x] Information correct
+    [x] styling correct
+    [x] pdf snapshot fine
+    [x] alt tags
+
+[x] Euro Jackpot
+    [x] Information correct
+    [x] styling correct
+    [x] pdf snapshot fine
+    [X] alt tags
+
+[x] SuperEnalotto
+    [x] Information correct
+    [x] styling correct
+    [x] pdf snapshot fine
+    [x] alt tags
+
+[x] UK Lotto
+    [x] Information correct
+    [x] styling correct
+    [x] pdf snapshot fine
+    [x] alt tags 
+
+[x] Irish Lotto
+    [x] Information correct
+    [x] styling correct
+    [x] pdf snapshot fine
+    [x] alt tags
+
+[x] German Lotto 6aus49
+    [x] Information correct
+    [x] styling correct
+    [x] pdf snapshot fine
+    [x] alt tags
+
+[x] French Lotto
+    [x] Information correct
+    [x] styling correct
+    [x] pdf snapshot fine
+    [x] alt tags
+
+[x] Canadian Lotto 6/49
+    [x] Information correct
+    [x] styling correct
+    [x] pdf snapshot fine
+    [x] alt tags
+
+[x] Brazilian Mega-Sena
+    [x] Information correct
+    [x] styling correct
+    [x] pdf snapshot fine
+    [x] alt tags
+
+[X] La Primitiva
+    [x] Information correct
+    [x] styling correct
+    [x] pdf snapshot fine
+    [x] alt tags
